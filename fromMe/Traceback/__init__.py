@@ -1,2 +1,2 @@
-import Traceback
+from Traceback import *
 import Debug
