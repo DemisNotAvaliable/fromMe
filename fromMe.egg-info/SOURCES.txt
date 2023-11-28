@@ -4,6 +4,7 @@ fromMe.egg-info/PKG-INFO
 fromMe.egg-info/SOURCES.txt
 fromMe.egg-info/dependency_links.txt
 fromMe.egg-info/top_level.txt
+fromMe/Traceback/Debug.py
 fromMe/Traceback/Traceback.py
 fromMe/Traceback/__init__.py
 fromMe/basics/Basics.py
